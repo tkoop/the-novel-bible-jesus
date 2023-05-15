@@ -14,4 +14,5 @@ This project endevours to take a Bible translation of the books of Luke and Acts
 - [ ] Decide on what to do about chapters, since we want to maintain the concept of chapters in the traditional novel sense of the word, not the Bible publishing concept of chapters.
 - [ ] Decide where to divide the chapters and scenes
 - [ ] Create the epub file
-- [ ] Create the PDF
+- [ ] Create the ODT, and thus the PDF
+- [ ] Cover design
