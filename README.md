@@ -9,7 +9,7 @@ This project endevours to take a Bible translation of the books of Luke and Acts
 - We will not modify the text of the transation at all to make it read more like a novel or anything like that.  The words will be a correct translation by the translators.
 
 ## To Do list:
-- [ ] Find a translation
+- [x] Find a translation: https://berean.bible/terms.htm
 - [ ] Get the contents of Luke and Acts, and transform them into the format we want
 - [ ] Decide on what to do about chapters, since we want to maintain the concept of chapters in the traditional novel sense of the word, not the Bible publishing concept of chapters.
 - [ ] Decide where to divide the chapters and scenes
