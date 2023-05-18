@@ -10,9 +10,10 @@ This project endevours to take a Bible translation of the books of Luke and Acts
 
 ## To Do list:
 - [x] Find a translation: https://berean.bible/terms.htm
-- [ ] Get the contents of Luke and Acts, and transform them into the format we want
-- [ ] Decide on what to do about chapters, since we want to maintain the concept of chapters in the traditional novel sense of the word, not the Bible publishing concept of chapters.
-- [ ] Decide where to divide the chapters and scenes
-- [ ] Create the epub file
+- [x] Get the contents of Luke and Acts, and transform them into the format we want
+- [x] Decide on what to do about chapters, since we want to maintain the concept of chapters in the traditional novel sense of the word, not the Bible publishing concept of chapters.
+- [x] Decide where to divide the chapters and scenes
 - [ ] Create the ODT, and thus the PDF
 - [ ] Cover design
+- [ ] Upload to Amazon
+- [ ] Create the epub file
